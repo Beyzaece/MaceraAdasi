@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/avatarolu\u015Fturma.unity"
+    guid: ae72890de5270a14e8f460c3f32cd463
+  - enabled: 1
+    path: Assets/AvatarOynat.unity
+    guid: 4c4ef5eb64fc6d6439ebd426d0343901
+  - enabled: 1
+    path: Assets/GorevSecimi.unity
+    guid: 7847b2f2fa42e2b4f862b582e7430475
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Girissahnesi.unity
+    guid: 891e4e6f45ae13f44ac5e2210618c382
+  - enabled: 1
+    path: "Assets/avatarolu\u015Fturma.unity"
+    guid: 7008a312c6521434a8b32d3b54adf3b7
+  - enabled: 1
+    path: Assets/secimmalzeme.unity
+    guid: 6589f344486293442b3bb1fb53a1768d
+  - enabled: 1
+    path: Assets/AvatarOynat.unity
+    guid: e2270a80d7c73f449bd22e157d42900e
+  - enabled: 1
+    path: Assets/DunyaKesif.unity
+    guid: 51aef54f3fb97614896fc328d280ecce
+  - enabled: 1
+    path: Assets/arbigben.unity
+    guid: bd2a18a4eb8b3f140b2edb6c09bb2cf3
+  - enabled: 1
+    path: "Assets/K\xFClt\xFCrelYemek.unity"
+    guid: 33e3648c8223fb343bd559d36dbe85ac
+  - enabled: 1
+    path: Assets/sertifika.unity
+    guid: d9da7625c21aaa1418e0079b85140b06
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 04c6a5557f2f8864daf9cc9ac3d2fb8b, type: 2}
+  m_UseUCBPForAssetBundles: 0
