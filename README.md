@@ -100,16 +100,14 @@ Dunya-Kasifi/
 
 Aşağıdaki videolarla oyunun genel işleyişini ve  özelliklerini görebilirsiniz:
 
-### ▶ 1. Genel Oyun Videosu
-[![Oyun Tanıtım Videosu] [https://img.youtube.com/vi/YOUTUBE_VIDEO_ID1/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID1](https://www.youtube.com/watch?v=5dyaCAC_W6o)
+[![Macera Adası Oyun Tanıtımı](https://img.youtube.com/vi/5dyaCAC_W6o/0.jpg)](https://www.youtube.com/watch?v=5dyaCAC_W6o)
+Oyun içi mekanikler, AR destekli etkileşimler ve keşif sürecine dair genel bir bakış.
 
-### ▶ 2. Web Sitesi Özellikleri ve Etkileşimler
-[!Web Tanıtım Videosu](https://www.youtube.com/watch?v=5dyaCAC_W6o)
-## 📸 Ekran Görüntüleri
+---
 
-Galeri sayfasında oyun içi sahneleri görebilirsiniz:  
-[Galeriye Git](https://beyzaece.github.io/MaceraAdasiWeb/galeri.html)
-
+### 💻 2. Web Sitesi Tanıtım Videosu
+[![Macera Adası Web Sitesi Tanıtımı](https://img.youtube.com/vi/5v-yJxu6BLI/0.jpg)](https://www.youtube.com/watch?v=5v-yJxu6BLI)
+Oyunun resmi web sitesinde bulunan sayfaların (özellikler, planlama, galeri, iletişim) kısa bir gezintisi.
 ---
 
 ## 👩‍💻 Geliştirici
