@@ -96,7 +96,15 @@ Dunya-Kasifi/
 [Macera Adası APK](downloads/maceraadasi.apk)
 
 ---
+## 🎥 Tanıtım Videoları
 
+Aşağıdaki videolarla oyunun genel işleyişini ve  özelliklerini görebilirsiniz:
+
+### ▶ 1. Genel Oyun Videosu
+[![Oyun Tanıtım Videosu] [https://img.youtube.com/vi/YOUTUBE_VIDEO_ID1/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID1](https://www.youtube.com/watch?v=5dyaCAC_W6o)
+
+### ▶ 2. Web Sitesi Özellikleri ve Etkileşimler
+[!Web Tanıtım Videosu](https://www.youtube.com/watch?v=5dyaCAC_W6o)
 ## 📸 Ekran Görüntüleri
 
 Galeri sayfasında oyun içi sahneleri görebilirsiniz:  
