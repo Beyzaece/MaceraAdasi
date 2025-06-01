@@ -89,6 +89,13 @@ Dunya-Kasifi/
 > Tüm tanıtım sayfalarına bu bağlantıdan ulaşabilirsin.
 
 ---
+## 📁 Proje Dökümanları
+
+Projeye ait analizler, planlamalar, kullanıcı profilleri ve diğer tüm belgeler aşağıdaki Google Drive klasöründe yer almaktadır:
+
+🔗 [Google Drive Üzerinden Dökümanlara Erişin](https://drive.google.com/drive/u/0/folders/1wsiY6HHsgFhZOI8pe0zu8x1QRq7HO9MK)
+
+---
 
 ## 📦 APK Dosyası
 
