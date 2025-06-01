@@ -61,3 +61,51 @@ Dunya-Kasifi/
 6.	Build and Run ile APK üret
 
 
+# 🌍 Macera Adası
+
+*Artırılmış Gerçeklik Temelli Mobil Oyun*  
+Çocukların eğlenerek dünyayı keşfetmesini amaçlayan interaktif, renkli ve eğitici bir mobil oyun.
+
+---
+
+## 🎮 Proje Özeti
+
+- 🌐 Dünya haritası üzerinden kültürel yapılar keşfedilir  
+- 🧭 Pusula, dürbün gibi ekipmanlarla görevler tamamlanır  
+- 🎨 Avatar kişiselleştirme ve mini oyunlar  
+- 📷 AR destekli etkileşimli deneyimler  
+
+---
+
+## 🔗 Web Sitesi
+
+🖥 [👉 Web Sürümünü Görmek İçin Tıkla](https://beyzaece.github.io/MaceraAdasiWeb/)
+
+> Tüm tanıtım sayfalarına bu bağlantıdan ulaşabilirsin.
+
+---
+
+## 📦 APK Dosyası
+
+📲 Android cihazlar için indirme:  
+[Macera Adası APK](downloads/maceraadasi.apk)
+
+---
+
+## 📸 Ekran Görüntüleri
+
+Galeri sayfasında oyun içi sahneleri görebilirsiniz:  
+[Galeriye Git](https://beyzaece.github.io/MaceraAdasiWeb/galeri.html)
+
+---
+
+## 👩‍💻 Geliştirici
+
+*Beyza Ece Deniz*  
+[Fırat Üniversitesi - Yazılım Mühendisliği](https://www.firat.edu.tr/)  
+2025 Mezunu 🎓
+
+---
+
+> Bu proje “Macera Adası” adlı mobil oyunun tanıtımı amacıyla oluşturulmuştur.
+
