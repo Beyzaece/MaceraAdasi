@@ -42,14 +42,23 @@
 ---
 ##Klasör Yapısı
 Dunya-Kasifi/
+
 ├── Assets/
+
 │   ├── Scripts/
+
 │   ├── Prefabs/
+
 │   ├── Scenes/
+
 │   └── Resources/
+
 ├── Packages/
+
 ├── ProjectSettings/
+
 ├── .gitignore
+
 └── README.md
 
 ## 🎮 Nasıl Kurulur?
