@@ -5,9 +5,12 @@
 
 ---
 
-## 📌 Proje Özeti
+## 🎮 Proje Özeti
 
-*Dünya Kaşifi*, çocuklara farklı ülkeleri tanıtan, kültürel yapıları keşfetmelerini sağlayan ve mini oyunlarla öğrenmeyi eğlenceli hale getiren bir mobil uygulamadır. Oyun, avatar seçimi, interaktif görevler ve artırılmış gerçeklik (AR) deneyimleri ile çocuklara global farkındalık kazandırmayı amaçlar.
+- 🌐 Dünya haritası üzerinden kültürel yapılar keşfedilir  
+- 🧭 Pusula, dürbün gibi ekipmanlarla görevler tamamlanır  
+- 🎨 Avatar kişiselleştirme ve mini oyunlar  
+- 📷 AR destekli etkileşimli deneyimler  
 
 ---
 
@@ -68,14 +71,7 @@ Dunya-Kasifi/
 
 ---
 
-## 🎮 Proje Özeti
 
-- 🌐 Dünya haritası üzerinden kültürel yapılar keşfedilir  
-- 🧭 Pusula, dürbün gibi ekipmanlarla görevler tamamlanır  
-- 🎨 Avatar kişiselleştirme ve mini oyunlar  
-- 📷 AR destekli etkileşimli deneyimler  
-
----
 
 ## 🔗 Web Sitesi
 
