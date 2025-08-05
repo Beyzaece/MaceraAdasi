@@ -106,16 +106,20 @@ Projeye ait analizler, planlamalar, kullanıcı profilleri ve diğer tüm belgel
 ## 🎥 Tanıtım Videoları
 
 Aşağıdaki videolarla oyunun genel işleyişini ve  özelliklerini görebilirsiniz:
+[![Macera Adası Oyun Tanıtımı](https://img.youtube.com/vi/5v-yJxu6BLI/0.jpg)](https://www.youtube.com/watch?v=5v-yJxu6BLI)
 
-[![Macera Adası Oyun Tanıtımı](https://img.youtube.com/vi/5dyaCAC_W6o/0.jpg)](https://www.youtube.com/watch?v=5dyaCAC_W6o)
 Oyun içi mekanikler, AR destekli etkileşimler ve keşif sürecine dair genel bir bakış.
 
 ---
 
 ### 💻 2. Web Sitesi Tanıtım Videosu
-[![Macera Adası Web Sitesi Tanıtımı](https://img.youtube.com/vi/5v-yJxu6BLI/0.jpg)](https://www.youtube.com/watch?v=5v-yJxu6BLI)
+
+[![Macera Adası Web Sitesi Tanıtımı](https://img.youtube.com/vi/5dyaCAC_W6o/0.jpg)](https://www.youtube.com/watch?v=5dyaCAC_W6o)
 Oyunun resmi web sitesinde bulunan sayfaların (özellikler, planlama, galeri, iletişim) kısa bir gezintisi.
 ---
+
+
+
 
 ## 👩‍💻 Geliştirici
 
